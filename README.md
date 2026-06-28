@@ -10,4 +10,9 @@ A 2D platformer inspired by classic arcade games.
 - Level design
 
 ## Tech Used
-- Pygame
+- Python
+- Pygame-CE
+- Pygpen
+- ModernGL
+- Aseprite
+
